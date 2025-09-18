@@ -44,6 +44,7 @@ Description and possible values of fields described in "Fields"
 | collection                             | object  |                                                                                                                                            |
 | type                                   | string  |                                                                                                                                            |
 | excerpt                                | string  |                                                                                                                                            |
+| note                                   | string  |                                                                                                                                            |
 | title                                  | string  |                                                                                                                                            |
 | link<mark style="color:red;">\*</mark> | string  |                                                                                                                                            |
 | highlights                             | array   |                                                                                                                                            |
@@ -91,6 +92,7 @@ Description and possible values of fields described in "Fields"
 | collection  | object  |                                                                                                                                            |
 | type        | string  |                                                                                                                                            |
 | excerpt     | string  |                                                                                                                                            |
+| note        | string  |                                                                                                                                            |
 | title       | string  |                                                                                                                                            |
 | link        | string  |                                                                                                                                            |
 | highlights  | array   |                                                                                                                                            |

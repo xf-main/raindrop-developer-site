@@ -30,4 +30,4 @@ You can also use the same access token as with the [REST API](../v1/authenticati
 
 ## Client Configuration
 
-For step-by-step setup instructions for Claude, ChatGPT, VS Code, Cursor, and other clients, see the [Raindrop.io Help Center](https://help.raindrop.io/mcp).
+For step-by-step setup instructions for Claude, ChatGPT, VS Code, Cursor, and other clients, see the [Raindrop.io Help Center](https://help.raindrop.io/integrations/mcp).
